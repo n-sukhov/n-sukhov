@@ -2,7 +2,7 @@
 <p>Hey! I'm <b>Nick</b> and here are some facts about me:</p>
 <ul>
   <li> Interests: Machine Learning, Low-level, Control</li>
-  <li> 3rd course ITMO CSR student</li>
+  <li> 3rd year ITMO CSR student</li>
   <li> Open to job offers and internships </li>
 </ul>
 
