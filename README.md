@@ -55,9 +55,9 @@
 
 <h2> :pushpin: Maybe you'll find it interesting:</h2>
 <ul>
-  <li><a href="https://github.com/n-sukhov/ITMO-courses" target="_blank">Repo for ITMO works</a></li>
-  <li><a href="https://github.com/n-sukhov/brainfuck-interpreter" target="_blank">Brainfuck interpreter in C</a></li>
-  <li><a href="https://github.com/n-sukhov/cpp-prata-materials" target="_blank">Obsidian notes: C++ Primer Plus (Stephen Prata)</a></li>
+  <li><a href="https://github.com/n-sukhov/ITMO-courses" target="_blank">Repo for ITMO works</a> — here you can find labs and assignments I completed for my university courses. Remember that plagiarism is usually punishable by a fine :wink:</li>
+  <li><a href="https://github.com/n-sukhov/brainfuck-interpreter" target="_blank">Brainfuck interpreter in C</a> — just  what it is</li>
+  <li><a href="https://github.com/n-sukhov/cpp-prata-materials" target="_blank">Obsidian notes: C++ Primer Plus (Stephen Prata)</a> — notes about C++ organized using the Zettelkasten method</li>
   <li>Soon it'll be some interesting here</li>
 </ul>
 
