@@ -1,5 +1,5 @@
 <h2>:mag_right: About Me</h2>
-<p>Hi! I'm <b>Nick</b> and here are some facts about me:</p>
+<p>Hey! I'm <b>Nick</b> and here are some facts about me:</p>
 <ul>
   <li> Interests: Machine Learning, Low-level, Control</li>
   <li> 3rd course ITMO CSR student</li>
@@ -45,6 +45,7 @@
 <div>
   <h3 style="display: inline;">Robotics</h3>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/ros/ros-original.svg" width=40 height=40/>&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/raspberrypi/raspberrypi-original.svg" width=40 height=40/>&nbsp;
 </div>
 
 <div>
