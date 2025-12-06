@@ -1,5 +1,4 @@
-<h2>:mag_right: About Me</h2>
-<p>Hey! I'm <b>Nick</b> and here are some facts about me:</p>
+<h2>About Me</h2>
 <ul>
   <li> Interests: Machine Learning, Low-level, Control</li>
   <li> 3rd year ITMO CSR student</li>
@@ -7,7 +6,7 @@
 </ul>
 
 <div id="header" align="left">
-  <h2>:gear: Technologies</h2>
+  <h2>Technologies</h2>
 </div>
 
 <div>
