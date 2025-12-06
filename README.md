@@ -48,11 +48,6 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/raspberrypi/raspberrypi-original.svg" width=40 height=40/>&nbsp;
 </div>
 
-<div>
-  <h3 style="display: inline;">3D-modeling</h3>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/blender/blender-original.svg" width=40 height=40/>&nbsp;
-</div>
-
 <h2> :pushpin: Maybe you'll find it interesting:</h2>
 <ul>
   <li><a href="https://github.com/n-sukhov/ITMO-courses" target="_blank">Repo for ITMO works</a> — here you can find labs and assignments I completed for my university courses. Remember that plagiarism is usually punishable by a fine :wink:</li>
