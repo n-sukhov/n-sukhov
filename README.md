@@ -60,8 +60,3 @@
   <li><a href="https://github.com/n-sukhov/cpp-prata-materials" target="_blank">Obsidian notes: C++ Primer Plus (Stephen Prata)</a> — notes about C++ organized using the Zettelkasten method</li>
   <li>Soon it'll be some interesting here</li>
 </ul>
-
-<div id="header" align="left">
-  <h2>:bar_chart: Stats</h2>
-  <img src="https://github-readme-stats.vercel.app/api?username=n-sukhov&show_icons=true&theme=radical" alt="GitHub Stats"/>
-</div>
