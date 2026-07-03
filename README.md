@@ -2,7 +2,6 @@
 <ul>
   <li> Interests: Machine Learning, Math, Low-level</li>
   <li> 3rd year ITMO CSR student</li>
-  <li> Open to job offers and internships </li>
 </ul>
 
 <div id="header" align="left">
