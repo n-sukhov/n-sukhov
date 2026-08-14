@@ -1,7 +1,7 @@
 <h2>About Me</h2>
 <ul>
-  <li> Interests: Machine Learning, Math, Low-level</li>
-  <li> 3rd year ITMO CSR student</li>
+  <li> Interests: Machine Learning, Math</li>
+  <li> 4th year ITMO CSR student</li>
 </ul>
 
 <div id="header" align="left">
