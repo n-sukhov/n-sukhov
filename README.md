@@ -1,9 +1,3 @@
-<h2>About Me</h2>
-<ul>
-  <li> Interests: Machine Learning, Math</li>
-  <li> 4th year ITMO CSR student</li>
-</ul>
-
 <div id="header" align="left">
   <h2>Technologies</h2>
 </div>
